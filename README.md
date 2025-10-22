@@ -2,7 +2,6 @@
 <hr>
 <h2>Objetivo 👇</h2>
 <p>El objetivo del Juego es responder a 7 preguntas de cultural general de nivel primario (10-13 años), si respondes todas las respuestas de manera correcta te saldrá un mensaje, si sacas menos que 7 también. Vamos a descubrirlo!!</p>
-<br>
 <h2>Instrucciones:</h2>
 <p>Al comenzar el juego nos aparecerán el titulo: "¿Sabes más que un niño de primaria?", y la primera pregunta.
 <br>
